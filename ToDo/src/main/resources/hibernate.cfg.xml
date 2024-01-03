@@ -7,13 +7,12 @@
     <session-factory>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://roundhouse.proxy.rlwy.net:11488/railway</property>
-        <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">Fab1-4a-3BBDGG*AfA5BaBGE-2fD6Gba/property>
- 
-        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.connection.url">jdbc:mysql://sql12.freesqldatabase.com:3306/sql12674237</property>
+        <property name="hibernate.connection.username">sql12674237</property>
+        <property name="hibernate.connection.password">jqAaGGtkUk</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
         
+        <property name="hibernate.show_sql">true</property>
         <mapping class="com.entity.Note"/>
 
        
