@@ -7,9 +7,9 @@
     <session-factory>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/reporttaker</property>
-        <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">17032002A$h</property>
+        <property name="hibernate.connection.url">jdbc:mysql://roundhouse.proxy.rlwy.net:11488/railway</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">Fab1-4a-3BBDGG*AfA5BaBGE-2fD6Gba/property>
  
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
